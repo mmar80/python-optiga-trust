@@ -1,0 +1,5 @@
+/home/ops/repos/python-optiga-trust/optigatrust/csrc/build/CMakeFiles/rebuild_cache.dir
+/home/ops/repos/python-optiga-trust/optigatrust/csrc/build/CMakeFiles/edit_cache.dir
+/home/ops/repos/python-optiga-trust/optigatrust/csrc/build/CMakeFiles/optigatrust-uart-linux-armv7l.dir
+/home/ops/repos/python-optiga-trust/optigatrust/csrc/build/CMakeFiles/optigatrust-libusb-linux-armv7l.dir
+/home/ops/repos/python-optiga-trust/optigatrust/csrc/build/CMakeFiles/optigatrust-i2c-linux-armv7l.dir
